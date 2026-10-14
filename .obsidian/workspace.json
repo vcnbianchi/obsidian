@@ -1,0 +1,71 @@
+{
+  "main": {
+    "id": "48c64802a7c21998",
+    "type": "split",
+    "children": [
+      {
+        "id": "647bc82879b67353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3247ee69edc146cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cde53df19e1672f",
+    "type": "split",
+    "children": [
+      {
+        "id": "267017740462992a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0890294ad96c7325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa86827881b6c61a",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {}
+  },
+  "active": "3247ee69edc146cf",
+  "lastOpenFiles": [
+    "Sistemas Distribuídos.md",
+    "Welcome.md",
+    "desktop.ini"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "types": {
+    "tags": "tags",
+    "aliases": "aliases",
+    "created at": "datetime",
+    "updated at": "datetime"
+  }
+}
