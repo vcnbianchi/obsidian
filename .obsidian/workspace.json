@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "647bc82879b67353",
+        "id": "c0d0d5fd7b432a24",
         "type": "tabs",
         "children": [
           {
-            "id": "3247ee69edc146cf",
+            "id": "7369fc7bcc8d2700",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa86827881b6c61a",
@@ -62,9 +63,11 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "3247ee69edc146cf",
+  "active": "7369fc7bcc8d2700",
   "lastOpenFiles": [
     "Sistemas Distribuídos.md",
+    "Linguagem C.md",
+    "Spring.md",
     "Welcome.md",
     "desktop.ini"
   ]

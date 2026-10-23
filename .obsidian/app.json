@@ -1,7 +1,7 @@
 {
   "promptDelete": true,
   "strictLineBreaks": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,

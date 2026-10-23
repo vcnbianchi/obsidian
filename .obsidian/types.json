@@ -2,7 +2,8 @@
   "types": {
     "tags": "tags",
     "aliases": "aliases",
-    "created at": "datetime",
-    "updated at": "datetime"
+    "created at": "date",
+    "updated at": "date",
+    "cssclasses": "multitext"
   }
 }
