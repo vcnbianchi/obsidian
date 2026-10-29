@@ -1,9 +1,5 @@
 ---
-title: Spring
-aliases:
-  - Spring
-  - Spring Framework
-  - Spring Boot
+title: Spring Framework
 author: Victor Bianchi
 created at: 2026-10-23
 updated at: 2026-10-23

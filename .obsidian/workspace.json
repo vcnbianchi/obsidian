@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d0d5fd7b432a24",
+        "id": "960e2d98f827aeb3",
         "type": "tabs",
         "children": [
           {
-            "id": "7369fc7bcc8d2700",
+            "id": "d139914a869ecc2a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa86827881b6c61a",
@@ -63,11 +62,11 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "7369fc7bcc8d2700",
+  "active": "d139914a869ecc2a",
   "lastOpenFiles": [
-    "Sistemas Distribuídos.md",
     "Linguagem C.md",
-    "Spring.md",
+    "Sistemas Distribuídos.md",
+    "Spring Framework.md",
     "Welcome.md",
     "desktop.ini"
   ]
