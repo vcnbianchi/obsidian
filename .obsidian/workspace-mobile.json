@@ -11,15 +11,10 @@
             "id": "05687d48ee2d6bba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagem C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linguagem C"
+              "title": "Nova aba"
             }
           }
         ]
@@ -60,7 +55,9 @@
   },
   "active": "05687d48ee2d6bba",
   "lastOpenFiles": [
-    "Sistemas Distribuídos.md",
-    "Linguagem C.md"
+    "Spring.md",
+    "Spring Framework.md",
+    "Linguagem C.md",
+    "Sistemas Distribuídos.md"
   ]
 }

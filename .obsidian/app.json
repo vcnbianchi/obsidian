@@ -1,10 +1,11 @@
 {
   "promptDelete": true,
   "strictLineBreaks": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "deleteUnlinkedAttachments": "always",
-  "trashOption": "local"
+  "trashOption": "local",
+  "showUnsupportedFiles": true
 }

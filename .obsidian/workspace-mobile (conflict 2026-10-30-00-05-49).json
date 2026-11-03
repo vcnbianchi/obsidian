@@ -1,0 +1,62 @@
+{
+  "main": {
+    "id": "0761e039a6173dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01b497b4736d66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f9de07fb11a245",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e60d8c88bcd2f61",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b5546dd7da651962",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1f1d69bb51b66061",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": -1
+  },
+  "left-ribbon": {
+    "hiddenItems": {}
+  },
+  "active": "c7f9de07fb11a245",
+  "lastOpenFiles": [
+    "Spring.md",
+    "Linguagem C.md",
+    "Sistemas Distribuídos.md"
+  ]
+}
