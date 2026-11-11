@@ -40,6 +40,20 @@
           "icon": "lucide-folder-closed",
           "title": "Explorador de arquivos"
         }
+      },
+      {
+        "id": "0dbe84a26d44ea1b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas as propriedades"
+        }
       }
     ],
     "currentTab": 0
@@ -47,11 +61,72 @@
   "right": {
     "id": "1f1d69bb51b66061",
     "type": "mobile-drawer",
-    "children": [],
-    "currentTab": -1
+    "children": [
+      {
+        "id": "538ee1f0ca3fe5af",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "325cad39a1b74dd7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "32b677c5be5458ce",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      },
+      {
+        "id": "1c611875f02481dd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "left-ribbon": {
-    "hiddenItems": {}
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "bases:Criar nova base": false
+    }
   },
   "active": "05687d48ee2d6bba",
   "lastOpenFiles": [
