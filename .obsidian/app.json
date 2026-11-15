@@ -1,11 +1,9 @@
 {
   "promptDelete": true,
-  "strictLineBreaks": true,
-  "spellcheck": true,
   "tabSize": 2,
+  "vimMode": false,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
   "deleteUnlinkedAttachments": "always",
-  "trashOption": "local",
-  "showUnsupportedFiles": true
+  "trashOption": "local"
 }

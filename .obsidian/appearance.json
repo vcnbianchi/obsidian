@@ -1,4 +1,6 @@
 {
+  "showRibbon": false,
   "showViewHeader": false,
-  "showRibbon": true
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true
 }
