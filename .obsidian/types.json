@@ -5,6 +5,7 @@
     "tags": "tags",
     "created at": "date",
     "updated at": "date",
-    "references": "multitext"
+    "references": "multitext",
+    "type": "multitext"
   }
 }

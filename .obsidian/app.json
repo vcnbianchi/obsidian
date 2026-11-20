@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "tabSize": 2,
   "vimMode": false,
   "alwaysUpdateLinks": true,

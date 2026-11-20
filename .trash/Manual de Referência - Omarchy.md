@@ -9,7 +9,6 @@ tags:
   - omarchy
   - arch-linux
   - linux
-  - tech
 references:
   - https://omarchy.org/manual
 created at: 2026-11-15

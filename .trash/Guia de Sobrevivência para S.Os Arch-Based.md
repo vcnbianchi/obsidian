@@ -1,13 +1,14 @@
 ---
 title: Guia de Sobrevivência para S.Os Arch-Based
 author: Victor Bianchi
+type:
+  - note
 aliases:
   - arch-guide
 tags:
   - linux
   - arch-linux
-  - omarchy
-  - tech
+references:
 created at: 2026-11-14
 updated at: 2026-11-15
 ---
