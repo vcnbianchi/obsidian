@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb16bc4061bcdc4",
+        "id": "b54e950d60f43db0",
         "type": "tabs",
         "children": [
           {
-            "id": "18aadd03b76053fa",
+            "id": "14e08dfdb98a901b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,36 +162,36 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
-          },
-          {
-            "id": "be72d7d2007e0c62",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
-      "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "18aadd03b76053fa",
+  "active": "14e08dfdb98a901b",
   "lastOpenFiles": [
+    "PLANO DE ESTUDOS.md",
+    "06-Livros/Entendendo Algoritmos - Aditya Y. Bhargava.pdf",
+    "README.md",
+    "00-Inbox/Sem título.md",
+    "06-Livros",
+    "Untitled.md",
+    "05-Clips",
+    "00-Inbox",
     "01-Conceitos/React.md",
     "01-Conceitos/JSX.md",
     "00-Inbox/docs - next.md",
@@ -203,7 +203,6 @@
     "Pasted image 20261120153146.png",
     "04-Anexos/learn-props.avif",
     "03-Indices/Desenvolvimento Web.md",
-    "README.md",
     "02-Fontes/Documentação - Next.js.md",
     "01-Conceitos/DOM.md",
     "01-Conceitos/Next.js.md",
@@ -220,15 +219,10 @@
     "04-Anexos/learn-components.avif",
     "04-Anexos/learn-html-and-dom.avif",
     "04-Anexos",
-    "01-Conceitos/pacman.md",
-    "01-Conceitos/yay.md",
-    "01-Conceitos/Notação Big O.md",
-    "01-Conceitos/Lista Encadeada.md",
     "03-Indices",
     "02-Fontes",
     "01-Conceitos",
     "00-Inbox",
-    "Manual de Referência - Omarchy.md~",
-    "Guia de Sobrevivência para S.Os Arch-Based.md~"
+    "Manual de Referência - Omarchy.md~"
   ]
 }
