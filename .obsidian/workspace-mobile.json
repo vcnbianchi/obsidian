@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff03ebe3165aae88",
+        "id": "5020ea9066bdd497",
         "type": "tabs",
         "children": [
           {
-            "id": "05687d48ee2d6bba",
+            "id": "0016b52e36f31e40",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -53,6 +53,51 @@
           },
           "icon": "lucide-archive",
           "title": "Todas as propriedades"
+        }
+      },
+      {
+        "id": "3723d037499bee28",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "52aa244b0be5d7c4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "7c488a23c7335250",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
         }
       }
     ],
@@ -113,8 +158,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -122,17 +167,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "bases:Criar nova base": false
     }
   },
-  "active": "05687d48ee2d6bba",
+  "active": "0016b52e36f31e40",
   "lastOpenFiles": [
-    "Spring.md",
-    "Spring Framework.md",
-    "Linguagem C.md",
-    "Sistemas Distribuídos.md"
+    "05-Clips/Where teams and agents work together.md",
+    "00-Inbox/Sem título.md",
+    "05-Clips",
+    "PLANO DE ESTUDOS.md",
+    "06-Livros/Entendendo Algoritmos - Aditya Y. Bhargava.pdf",
+    "06-Livros",
+    "00-Inbox",
+    "01-Conceitos/Lista Encadeada.md",
+    "04-Anexos/learn-props.avif",
+    "04-Anexos/learn-html-and-dom.avif",
+    "04-Anexos/learn-components.avif",
+    "03-Indices/Paradigmas de Programação.md",
+    "03-Indices/Desenvolvimento Web.md",
+    "03-Indices/Arch Linux.md",
+    "03-Indices/Algoritmos e Estrutura de Dados.md",
+    "02-Fontes/Livro - Entendendo Algoritmos.md",
+    "02-Fontes/Documentação - Next.js.md",
+    "01-Conceitos/yay.md",
+    "01-Conceitos/pacman.md",
+    "01-Conceitos/Selection Sort.md",
+    "01-Conceitos/React.md",
+    "01-Conceitos/Programação Imperativa.md",
+    "01-Conceitos/Programação Declarativa.md",
+    "01-Conceitos/PPA.md",
+    "01-Conceitos/Notação Big O.md",
+    "01-Conceitos/Next.js.md",
+    "01-Conceitos/JSX.md",
+    "01-Conceitos/DOM.md",
+    "01-Conceitos/Busca Simples.md",
+    "01-Conceitos/Busca Binária.md",
+    "01-Conceitos/Array.md",
+    "01-Conceitos/AUR.md",
+    "04-Anexos",
+    "03-Indices",
+    "02-Fontes",
+    "01-Conceitos",
+    "README.md"
   ]
 }
