@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5020ea9066bdd497",
+        "id": "758d353a0c515c43",
         "type": "tabs",
         "children": [
           {
-            "id": "0016b52e36f31e40",
+            "id": "0a967ab9d6576fe9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,13 +176,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0016b52e36f31e40",
+  "active": "0a967ab9d6576fe9",
   "lastOpenFiles": [
+    "06-Livros/Entendendo Algoritmos - Aditya Y. Bhargava.pdf",
     "05-Clips/Where teams and agents work together.md",
     "00-Inbox/Sem título.md",
     "05-Clips",
     "PLANO DE ESTUDOS.md",
-    "06-Livros/Entendendo Algoritmos - Aditya Y. Bhargava.pdf",
     "06-Livros",
     "00-Inbox",
     "01-Conceitos/Lista Encadeada.md",
@@ -213,7 +213,6 @@
     "04-Anexos",
     "03-Indices",
     "02-Fontes",
-    "01-Conceitos",
-    "README.md"
+    "01-Conceitos"
   ]
 }
