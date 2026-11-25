@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPaintbrush",
+      "LiLightbulb",
+      "LiExcalidrawIcon",
+      "LiLink2",
+      "LiPaperclip"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00-Inbox": "LiInbox",
+  "01-Conceitos": "LiBook",
+  "02-Fontes": "LiDatabase",
+  "03-Indices": "LiList",
+  "04-Anexos": "LiPaperclip",
+  "05-Clips": "LiLink2",
+  "06-Excalidraw": "LiPaintbrush",
+  "PLANO DE ESTUDOS.md": "LiLightbulb"
+}

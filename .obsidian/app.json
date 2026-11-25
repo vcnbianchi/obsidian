@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "deleteUnlinkedAttachments": "always",
-  "trashOption": "local"
+  "trashOption": "local",
+  "showLineNumber": false,
+  "newLinkFormat": "absolute"
 }

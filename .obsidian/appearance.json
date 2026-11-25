@@ -1,6 +1,7 @@
 {
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": false,
   "monospaceFontFamily": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal"
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b54e950d60f43db0",
+        "id": "078a1e4082b57e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "14e08dfdb98a901b",
+            "id": "858428ae3454a80a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,9 +162,19 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "c9768780907bc173",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,21 +187,44 @@
       "canvas:Criar novo canvas": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tasknotes:Abrir visualização de mini calendário": true,
+      "tasknotes:Abrir visualização de calendário": false,
+      "tasknotes:Abrir visualização de tarefas": false,
+      "tasknotes:Abrir visualização de agenda": true,
+      "tasknotes:Abrir quadro kanban": true,
+      "tasknotes:Abrir temporizador Pomodoro": true,
+      "tasknotes:Criar nova tarefa": false
     }
   },
-  "active": "14e08dfdb98a901b",
+  "active": "858428ae3454a80a",
   "lastOpenFiles": [
     "PLANO DE ESTUDOS.md",
-    "06-Livros/Entendendo Algoritmos - Aditya Y. Bhargava.pdf",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "mdbase.yaml",
+    "mdbase.yaml.tasknotes-stage-1795635202718-17-zmqi4be1s8-ihhaeewbamj",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views",
+    "_mdbase/settings/dev.tasknotes.md",
+    "_mdbase/contracts/tasknotes.settings/1.1.0.md",
+    "_mdbase/contracts/mdbase.app-settings/2.0.0.md",
+    "_mdbase/contracts/tasknotes.settings/1.0.0.md",
+    "_mdbase/contracts/mdbase.app-settings/1.0.0.md",
+    "_mdbase/contracts/tasknotes.task/0.3.0-rc.6.md",
+    "_mdbase/README.md",
+    "_mdbase/types/task.md",
+    "_mdbase/types/tasknotes-settings.md",
     "README.md",
+    "05-Clips/Where teams and agents work together.md",
     "00-Inbox/Sem título.md",
-    "06-Livros",
     "Untitled.md",
-    "05-Clips",
-    "00-Inbox",
     "01-Conceitos/React.md",
     "01-Conceitos/JSX.md",
     "00-Inbox/docs - next.md",
@@ -206,23 +239,7 @@
     "02-Fontes/Documentação - Next.js.md",
     "01-Conceitos/DOM.md",
     "01-Conceitos/Next.js.md",
-    "01-Conceitos/Programação Declarativa.md",
-    "01-Conceitos/Programação Imperativa.md",
-    "01-Conceitos/Busca Simples.md",
-    "01-Conceitos/Array.md",
-    "01-Conceitos/AUR.md",
-    "01-Conceitos/Busca Binária.md",
-    "00-Inbox/Documentação - Next.js.md",
-    "03-Indices/Algoritmos e Estrutura de Dados.md",
-    "03-Indices/Arch Linux.md",
-    "02-Fontes/Livro - Entendendo Algoritmos.md",
     "04-Anexos/learn-components.avif",
-    "04-Anexos/learn-html-and-dom.avif",
-    "04-Anexos",
-    "03-Indices",
-    "02-Fontes",
-    "01-Conceitos",
-    "00-Inbox",
-    "Manual de Referência - Omarchy.md~"
+    "04-Anexos/learn-html-and-dom.avif"
   ]
 }
