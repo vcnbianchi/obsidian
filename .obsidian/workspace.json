@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "078a1e4082b57e9b",
+        "id": "be599f7ce3cf4314",
         "type": "tabs",
         "children": [
           {
-            "id": "858428ae3454a80a",
+            "id": "dac0edf2d4eefb1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -59,7 +59,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,18 +189,16 @@
       "obsidian-git:Open Git source control": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "tasknotes:Abrir visualização de mini calendário": true,
-      "tasknotes:Abrir visualização de calendário": false,
-      "tasknotes:Abrir visualização de tarefas": false,
-      "tasknotes:Abrir visualização de agenda": true,
-      "tasknotes:Abrir quadro kanban": true,
-      "tasknotes:Abrir temporizador Pomodoro": true,
-      "tasknotes:Criar nova tarefa": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "858428ae3454a80a",
+  "active": "0d2a4f9691dac0d5",
   "lastOpenFiles": [
+    "00-Inbox/Setup - OmniHub.md",
+    "02-Fontes/Documentação - Next.js.md",
+    "02-Fontes/Livro - Entendendo Algoritmos.md",
+    "05-Clips/Where teams and agents work together.md",
+    "00-Inbox/Ideias de Projetos para Aprender Java.md",
     "PLANO DE ESTUDOS.md",
     "TaskNotes/Views/pomodoro-stats.base",
     "mdbase.yaml",
@@ -222,8 +220,6 @@
     "_mdbase/types/task.md",
     "_mdbase/types/tasknotes-settings.md",
     "README.md",
-    "05-Clips/Where teams and agents work together.md",
-    "00-Inbox/Sem título.md",
     "Untitled.md",
     "01-Conceitos/React.md",
     "01-Conceitos/JSX.md",
@@ -236,9 +232,7 @@
     "Pasted image 20261120153146.png",
     "04-Anexos/learn-props.avif",
     "03-Indices/Desenvolvimento Web.md",
-    "02-Fontes/Documentação - Next.js.md",
     "01-Conceitos/DOM.md",
-    "01-Conceitos/Next.js.md",
     "04-Anexos/learn-components.avif",
     "04-Anexos/learn-html-and-dom.avif"
   ]

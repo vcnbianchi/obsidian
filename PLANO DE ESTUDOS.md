@@ -21,6 +21,7 @@ Este documento organiza o meu estudo em 5 diferentes pipelines com diferentes fr
 - [ ] Python
 - [ ] SQL
 - [ ] C#
+- [ ] C
 ### F3: Frameworks & Bibliotecas & Ferramentas
 - [ ] Spring Framework
 - [ ] Spring Boot
@@ -153,6 +154,7 @@ Este documento organiza o meu estudo em 5 diferentes pipelines com diferentes fr
 ### F7: Arquitetura
 - [ ] SOLID
 - [ ] Design Patterns: Gang of Four (GoF)
+- [ ] Object Calisthenics
 - [ ] Arquitetura Limpa
 - [ ] Arquitetura Hexagonal
 - [ ] Monolito modular
