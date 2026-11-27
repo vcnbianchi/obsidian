@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be599f7ce3cf4314",
+        "id": "fbddaa7767a48006",
         "type": "tabs",
         "children": [
           {
-            "id": "dac0edf2d4eefb1b",
+            "id": "fc107b4892f49ef9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,9 +192,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0d2a4f9691dac0d5",
+  "active": "fc107b4892f49ef9",
   "lastOpenFiles": [
     "00-Inbox/Setup - OmniHub.md",
+    "ABAC vs RBAC.md",
     "02-Fontes/Documentação - Next.js.md",
     "02-Fontes/Livro - Entendendo Algoritmos.md",
     "05-Clips/Where teams and agents work together.md",
@@ -232,7 +233,6 @@
     "Pasted image 20261120153146.png",
     "04-Anexos/learn-props.avif",
     "03-Indices/Desenvolvimento Web.md",
-    "01-Conceitos/DOM.md",
     "04-Anexos/learn-components.avif",
     "04-Anexos/learn-html-and-dom.avif"
   ]
